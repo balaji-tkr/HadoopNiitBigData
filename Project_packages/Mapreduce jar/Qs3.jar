@@ -1,0 +1,1 @@
+hadoop jar nyse.jar Qs3 /niit2/h1b_kaggle.csv /niit2/out7
